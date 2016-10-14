@@ -1,0 +1,6 @@
+.env
+config/ncftp_config
+config/config.json
+data
+vendor
+
